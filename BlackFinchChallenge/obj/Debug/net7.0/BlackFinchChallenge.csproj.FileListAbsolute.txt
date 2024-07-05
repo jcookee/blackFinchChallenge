@@ -1,0 +1,14 @@
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\bin\Debug\net7.0\BlackFinchChallenge.exe
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\bin\Debug\net7.0\BlackFinchChallenge.deps.json
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\bin\Debug\net7.0\BlackFinchChallenge.runtimeconfig.json
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\bin\Debug\net7.0\BlackFinchChallenge.dll
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\bin\Debug\net7.0\BlackFinchChallenge.pdb
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\obj\Debug\net7.0\BlackFinchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\obj\Debug\net7.0\BlackFinchChallenge.AssemblyInfoInputs.cache
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\obj\Debug\net7.0\BlackFinchChallenge.AssemblyInfo.cs
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\obj\Debug\net7.0\BlackFinchChallenge.csproj.CoreCompileInputs.cache
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\obj\Debug\net7.0\BlackFinchChallenge.dll
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\obj\Debug\net7.0\refint\BlackFinchChallenge.dll
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\obj\Debug\net7.0\BlackFinchChallenge.pdb
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\obj\Debug\net7.0\BlackFinchChallenge.genruntimeconfig.cache
+C:\repos\BlackFinchChallenge\BlackFinchChallenge\obj\Debug\net7.0\ref\BlackFinchChallenge.dll
